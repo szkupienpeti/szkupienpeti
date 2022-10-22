@@ -1,6 +1,6 @@
 # Hi there👋
 
-I am Péter Szkupien from Budapest, Hungary, currently doing the last semester of my MSc studies in the field of Computer Science Engineering at [Budapest University of Technology and Economics](https://www.bme.hu/?language=en)🧑‍🎓 I am interested in model-based software engineering and formal methods which I am working on at [Critical Systems Research Group](https://github.com/ftsrg)✨
+I am Péter Szkupien from Budapest, Hungary, currently doing the last semester of my MSc studies in the field of Computer Science Engineering at [Budapest University of Technology and Economics](https://www.bme.hu/?language=en), specializing in the model-based design and formal analysis of complex, safety-critical systems at [Critical Systems Research Group](https://github.com/ftsrg).🧑‍🎓 I am experienced in Java and Eclipse-based technologies both from university and industry, with a strong theoretical background in software engineering.💪 I enjoy learning new technologies and sharing my knowledge with others, as well as solving complex problems in teamwork by forging theoretical results into technical solutions.🚀
 
 You can also find me on [LinkedIn](https://www.linkedin.com/in/peterszkupien/) or check out my CV [here](https://github.com/szkupienpeti/cv/blob/main/peter-szkupien-cv.pdf)📄
 
