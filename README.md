@@ -1,6 +1,6 @@
 # Hi there👋
 
-I am Péter Szkupien from Budapest, Hungary.🇭🇺 I received my BSc and MSc degrees in Computer Science Engineering from the [Budapest University of Technology and Economics](https://www.bme.hu/?language=en) in 2021 and 2023. During my studies, I specialized in the model-based design and formal analysis of complex, safety-critical systems.🧑‍🎓 I am experienced in Java and Eclipse-based technologies both from university and industry, with a strong theoretical background in software engineering.💪 I enjoy learning new technologies and sharing my knowledge with others, as well as solving complex problems in teamwork by forging theoretical results into technical solutions.🚀
+I am Péter Szkupien (from Budapest, Hungary🇭🇺), a software engineer with 5 years of experience in Java development, currently working in the financial sector.📊 I hold an Honours Master's Degree in Computer Science Engineering, with a strong theoretical background.💪 I'm passionate about continuous learning and personal growth, and enjoy exploring new domains from technical and business perspectives.📈 I thrive in collaborative teams, solving real-world problems, and building reliable, maintainable solutions.🤝 I'm especially motivated when my work creates a meaningful impact.🚀
 
 You can also find me on [LinkedIn](https://www.linkedin.com/in/peterszkupien/) or check out my CV [here](https://github.com/szkupienpeti/cv/blob/main/peter-szkupien-cv.pdf)📄
 
